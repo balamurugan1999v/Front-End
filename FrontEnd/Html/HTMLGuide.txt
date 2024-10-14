@@ -1,0 +1,24 @@
+HTML: HyperText Markup Language it defines the structure and content of the webpage
+
+HTML Elements:
+	h1 to h6
+	img
+	div
+	a
+	li
+	ul
+	ol
+	head
+	body
+	main
+	nav
+	form
+	table
+	input
+	table
+	video
+	span
+	body
+	b
+	i
+	<p></p> - paragraph
